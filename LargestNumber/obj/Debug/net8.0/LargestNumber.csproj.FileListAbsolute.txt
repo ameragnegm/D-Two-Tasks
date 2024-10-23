@@ -1,0 +1,14 @@
+C:\Users\amera\source\repos\DayTWO\LargestNumber\bin\Debug\net8.0\LargestNumber.exe
+C:\Users\amera\source\repos\DayTWO\LargestNumber\bin\Debug\net8.0\LargestNumber.deps.json
+C:\Users\amera\source\repos\DayTWO\LargestNumber\bin\Debug\net8.0\LargestNumber.runtimeconfig.json
+C:\Users\amera\source\repos\DayTWO\LargestNumber\bin\Debug\net8.0\LargestNumber.dll
+C:\Users\amera\source\repos\DayTWO\LargestNumber\bin\Debug\net8.0\LargestNumber.pdb
+C:\Users\amera\source\repos\DayTWO\LargestNumber\obj\Debug\net8.0\LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amera\source\repos\DayTWO\LargestNumber\obj\Debug\net8.0\LargestNumber.AssemblyInfoInputs.cache
+C:\Users\amera\source\repos\DayTWO\LargestNumber\obj\Debug\net8.0\LargestNumber.AssemblyInfo.cs
+C:\Users\amera\source\repos\DayTWO\LargestNumber\obj\Debug\net8.0\LargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\amera\source\repos\DayTWO\LargestNumber\obj\Debug\net8.0\LargestNumber.dll
+C:\Users\amera\source\repos\DayTWO\LargestNumber\obj\Debug\net8.0\refint\LargestNumber.dll
+C:\Users\amera\source\repos\DayTWO\LargestNumber\obj\Debug\net8.0\LargestNumber.pdb
+C:\Users\amera\source\repos\DayTWO\LargestNumber\obj\Debug\net8.0\LargestNumber.genruntimeconfig.cache
+C:\Users\amera\source\repos\DayTWO\LargestNumber\obj\Debug\net8.0\ref\LargestNumber.dll

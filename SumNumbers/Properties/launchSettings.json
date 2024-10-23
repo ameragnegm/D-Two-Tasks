@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SumNumbers": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

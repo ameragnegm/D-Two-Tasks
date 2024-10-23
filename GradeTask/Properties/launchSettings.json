@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GradeTask": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

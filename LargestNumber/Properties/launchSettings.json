@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LargestNumber": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

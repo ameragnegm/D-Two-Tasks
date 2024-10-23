@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MultiplicationTable": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\amera\source\repos\DayTWO\GradeTask\bin\Debug\net8.0\GradeTask.exe
+C:\Users\amera\source\repos\DayTWO\GradeTask\bin\Debug\net8.0\GradeTask.deps.json
+C:\Users\amera\source\repos\DayTWO\GradeTask\bin\Debug\net8.0\GradeTask.runtimeconfig.json
+C:\Users\amera\source\repos\DayTWO\GradeTask\bin\Debug\net8.0\GradeTask.dll
+C:\Users\amera\source\repos\DayTWO\GradeTask\bin\Debug\net8.0\GradeTask.pdb
+C:\Users\amera\source\repos\DayTWO\GradeTask\obj\Debug\net8.0\GradeTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amera\source\repos\DayTWO\GradeTask\obj\Debug\net8.0\GradeTask.AssemblyInfoInputs.cache
+C:\Users\amera\source\repos\DayTWO\GradeTask\obj\Debug\net8.0\GradeTask.AssemblyInfo.cs
+C:\Users\amera\source\repos\DayTWO\GradeTask\obj\Debug\net8.0\GradeTask.csproj.CoreCompileInputs.cache
+C:\Users\amera\source\repos\DayTWO\GradeTask\obj\Debug\net8.0\GradeTask.dll
+C:\Users\amera\source\repos\DayTWO\GradeTask\obj\Debug\net8.0\refint\GradeTask.dll
+C:\Users\amera\source\repos\DayTWO\GradeTask\obj\Debug\net8.0\GradeTask.pdb
+C:\Users\amera\source\repos\DayTWO\GradeTask\obj\Debug\net8.0\GradeTask.genruntimeconfig.cache
+C:\Users\amera\source\repos\DayTWO\GradeTask\obj\Debug\net8.0\ref\GradeTask.dll
