@@ -12,3 +12,4 @@ C:\Users\amera\source\repos\DayTWO\SumNumbers\obj\Debug\net8.0\refint\SumNumbers
 C:\Users\amera\source\repos\DayTWO\SumNumbers\obj\Debug\net8.0\SumNumbers.pdb
 C:\Users\amera\source\repos\DayTWO\SumNumbers\obj\Debug\net8.0\SumNumbers.genruntimeconfig.cache
 C:\Users\amera\source\repos\DayTWO\SumNumbers\obj\Debug\net8.0\ref\SumNumbers.dll
+C:\Users\amera\source\repos\DayTWO\SumNumbers\obj\Debug\net8.0\SumNumbers.sourcelink.json

@@ -7,7 +7,7 @@ namespace GradeTask
         static void Main(string[] args)
         {
             Console.WriteLine(" Choose From (A,B,C,D,E):");
-            String grade =  Console.ReadLine().ToUpper();
+            String grade =  Console.ReadLine().ToUpper().Trim();
             switch (grade)
             {
                 case "A":

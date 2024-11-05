@@ -6,12 +6,17 @@
         {
             int sum = 0, number = 0;    
             Console.WriteLine(" Enter Your Numbers:");
-            for (int i = 0; sum < 100; i++)
+       /*     for (int i = 0; sum < 100; i++)
             {
                 number = Convert.ToInt32(Console.ReadLine());
                 sum += number;
             }
-
+       */
+            do
+            {
+                number = Convert.ToInt32(Console.ReadLine());
+                sum += number;
+            }while(sum < 100);
             Console.WriteLine($" Your sum {sum} exceeds 100 now");
         }
     }

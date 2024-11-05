@@ -11,14 +11,9 @@
                 Console.WriteLine($" Multiplication Table for  number {number}");
                 for (int i = 1; i <= 12; i++)
                 {
-                    if (i == 12)
-                    {
-                        Console.Write($" {number} * {i} = {i * number} ");
-                    }
-                    else
-                    {
-                        Console.Write($" {number} * {i} = {i * number}  ,");
-                    }
+                   
+                        Console.Write($" {number} * {i} = {i * number}  ");
+                    
                 }
             }else
             {
